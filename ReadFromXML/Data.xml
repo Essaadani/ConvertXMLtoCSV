@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<customers>
+    <customer Name="ESSAADANI Khalid" Country="Morocco"/>
+    <customer Name="MAKBOUl Hamid" Country="Australia"/>
+    <customer Name="HAMRI Saîd" Country="Algeria"/>
+    <customer Name="CHFIRA Marouane" Country="Cuba"/>
+    <customer Name="MAADANE Youness" Country="Almania"/>
+ </customers>
